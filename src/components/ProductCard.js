@@ -5,7 +5,8 @@ import prodcompare from "../images/prodcompare.svg";
 import wish from "../images/wish.svg";
 import wishlist from "../images/wishlist.svg";
 import watch from "../images/watch.jpg";
-import watch2 from "../images/watch-1.avif";
+import watch2 from "../images/watch1.avif";
+import banner2 from "../images/banner2.jpg";
 import addcart from "../images/add-cart.svg";
 import view from "../images/view.svg";
 const ProductCard = (props) => {

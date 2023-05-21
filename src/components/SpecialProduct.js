@@ -1,6 +1,8 @@
-import React from "react";
-import ReactStars from "react-rating-stars-component";
-import { Link } from "react-router-dom";
+import React from 'react';
+import ReactStars from 'react-rating-stars-component';
+import { Link } from 'react-router-dom';
+import watchImage from '../images/watch.jpg';
+
 const SpecialProduct = () => {
   return (
     <>
@@ -8,7 +10,7 @@ const SpecialProduct = () => {
         <div className="special-product-card">
           <div className="d-flex justify-content-between">
             <div>
-              <img src="images/watch.jpg" className="img-fluid" alt="watch" />
+              <img src={watchImage} className="img-fluid" alt="watch" />
             </div>
             <div className="special-product-content">
               <h5 className="brand">Havels</h5>
@@ -41,7 +43,7 @@ const SpecialProduct = () => {
                   <div
                     className="progress-bar"
                     role="progressbar"
-                    style={{ width: "25%" }}
+                    style={{ width: '25%' }}
                     aria-valuenow="25"
                     aria-valuemin="0"
                     aria-valuemax="100"

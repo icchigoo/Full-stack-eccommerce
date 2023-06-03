@@ -5,6 +5,7 @@ This ecommerce site, developed using the MERN (MongoDB, Express.js, React.js, No
 ##Screenshot
 
 
+![image](https://github.com/icchigoo/Full-stack-eccommerce/assets/79775763/ce824a89-1ca1-4f12-a31e-83593c29cb2c)
 ![Annotation 2023-06-03 202723](https://github.com/icchigoo/Full-stack-eccommerce/assets/79775763/b572ba68-bf11-4c27-ba87-531d2194ac6b)
 ![Annotation 2023-06-03 202738](https://github.com/icchigoo/Full-stack-eccommerce/assets/79775763/f70c6423-8414-4ee5-ae52-62ba1ad62415)
 ![Annotation 2023-06-03 202801](https://github.com/icchigoo/Full-stack-eccommerce/assets/79775763/247b9d5a-292d-4ccb-bb46-fb2381057ce6)
